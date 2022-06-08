@@ -1,0 +1,22 @@
+.interests-container {
+  max-width: 317px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #1A1B21;
+  padding: 0 36px;
+  padding-top: 30px;
+}
+
+.interests-container h3 {
+  font-weight: 700;
+  font-size: 16px;
+  padding: 2px 0;
+  color: white;
+}
+
+.interests-container p {
+  font-weight: 400;
+  font-size: 12.25px;
+  padding: 2px 0;
+  color: white;
+}

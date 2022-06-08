@@ -1,0 +1,16 @@
+.footer-container {
+  max-width: 317px;
+  height: auto;
+  margin: 0 auto;
+  background-color: #1A1B21;
+  padding: 15px 36px;
+  padding-top: 20px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.footer-container a:hover {
+  transform: scale(1.1);
+}
